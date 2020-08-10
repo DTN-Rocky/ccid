@@ -1,3 +1,2 @@
 # ccid
-
-# noted: run node index.js to test
+noted: run node index.js to test
